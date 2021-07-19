@@ -1,1 +1,22 @@
+English:
 
+for decrypting the cy files in folder Doki Doki Literature Club Plus_Data/StreamingAssets/AssetBundles/Windows/ :
+
+1. Download DDLC-Plus-Assets-Extractor on github: https://github.com/Muzi-Chan/DDLC-Plus-Assets-Extractor/releases/ and python on python.org
+2. Do ctrl+R and type "cmd" to open terminal
+3. in the cmd, type: "py -m pip install unitypy"
+4. move the downloaded file into the folder Doki Doki Literature Club Plus_Data/StreamingAssets/AssetBundles/Windows/ and open it
+5. when it asks you "Is the current path the Doki Doki Literature Club Plus_Data\StreamingAssets\AssetBundles\Windows", click on y button then click ENTER
+6. The program will extract all the files into the decrypted folder (extracted file are in .assets extension so use my "decrypt .assets file" for decrypt them)
+
+
+French:
+
+pour décrypter les fichiers cy dans le dossier Doki Doki Literature Club Plus_Data/StreamingAssets/AssetBundles/Windows/ :
+
+1. Téléchargez DDLC-Plus-Assets-Extractor sur github : https://github.com/Muzi-Chan/DDLC-Plus-Assets-Extractor/releases/ et python sur le site python.org
+2. Faites ctrl+R et tapez "cmd" pour ouvrir le terminal
+3. dans le cmd, tapez : "py -m pip install unitypy"
+4. Une fois fini, déplacez le fichier téléchargé dans le dossier Doki Doki Literature Club Plus_Data/StreamingAssets/AssetBundles/Windows/ et ouvrez-le
+5. lorsqu'il vous demande "Le chemin actuel est-il le Doki Doki Literature Club Plus_Data\StreamingAssets\AssetBundles\Windows", cliquez sur le bouton y puis cliquez sur ENTER
+6. Le programme extraira tous les fichiers dans le dossier décrypté (les fichiers extraits sont dans l'extension .assets, aidez vous donc du fichier "decrypt .assets files" pour les décrypter)
